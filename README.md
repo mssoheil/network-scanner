@@ -18,10 +18,10 @@ A Bash script designed to perform quick network scans on specified hosts. It pro
     brew install nmap
   ```
 
-  ### Usage
+### Usage
  - Clone the Repository
  - Make the Script Executable `chmod +x main.sh`
  - Run the Script `./main.sh`
 
-Notes: 
+### Notes
 - Use this script only on networks you have explicit permission to scan
